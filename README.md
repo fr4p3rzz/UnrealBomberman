@@ -5,6 +5,8 @@ Remake of the world-famous arcade game Bomberman made in Unreal Engine 4
 This project was mainly developed in order to get confidence with UE4 blueprints and plugin/classes generation via C++.<br>
 It is developed as a multiplayer game for further studies on the server/client management of the Unreal Engine.
 ---
+!!This is intended to be mainly an excercise and not a playable product!!
+---
 # Screenshots
 [![image-2022-05-17-20-42-33.png](https://i.postimg.cc/9fgSX7ZN/image-2022-05-17-20-42-33.png)](https://postimg.cc/R3fGXqPc)
 ---
